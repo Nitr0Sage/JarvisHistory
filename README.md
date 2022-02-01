@@ -1,25 +1,20 @@
-# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/smile-wink.svg' card_color='#22a7f0' width='50' height='50' style='vertical-align:bottom'/> Mycroft's Background
-Learn history and personality of Mycroft
+# <img src='https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/JuARaVeInSy.png/revision/latest?cb=20120722164138' card_color='#22a7f0' width='50' height='50' style='vertical-align:bottom'/> Mycroft's Background
+Learn history and personality of J.A.R.V.I.S
 
 ## About
-Ask about the "birth" and parentage of Mycroft and get a taste of the community
-who is fostering this open source artificial intelligence.
+Ask about the "birth" and parentage of J.A.R.V.I.S
 
 ## Examples
 * "When were you created?"
 * "What are you?"
 * "Where were you born?"
 * "Who made you?"
-* "Do you even rhyme?"
 
 ## Credits
-Mycroft AI (@MycroftAI)
-
-Poem penned by community member Jelmer Prins
+Nitr0Sage
 
 ## Category
 **Entertainment**
 
 ## Tags
 #personality
-#persona

@@ -15,7 +15,7 @@
 from mycroft.skills import MycroftSkill, intent_handler
 
 
-class PersonalSkill(MycroftSkill):
+class JarvisHistory(MycroftSkill):
     @intent_handler("WhenWereYouBorn.intent")
     def handle_when_were_you_born_intent(self, message):
         self.speak_dialog("when.was.i.born")
@@ -39,4 +39,4 @@ class PersonalSkill(MycroftSkill):
         self.speak_dialog("what.am.i")
 
 def create_skill():
-    return PersonalSkill()
+    return JarvisHistory()

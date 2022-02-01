@@ -39,14 +39,5 @@ class PersonalSkill(MycroftSkill):
     def handle_what_are_you_intent(self, message):
         self.speak_dialog("what.am.i")
 
-    @intent_handler("DoYouRhyme.intent")
-    def handle_do_you_rhyme(self, message):
-        self.speak_dialog("tell.a.rhyme")
-
-    @intent_handler("DoYouDream.intent")
-    def handle_do_you_dream(self, message):
-        self.speak_dialog("dream")
-
-
 def create_skill():
     return PersonalSkill()
